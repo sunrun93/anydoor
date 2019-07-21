@@ -1,0 +1,28 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrun93/anydoor.git"
+  },
+  "keywords": [
+    "0226"
+  ],
+  "author": "wang jian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrun93/anydoor/issues"
+  },
+  "homepage": "https://github.com/sunrun93/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
